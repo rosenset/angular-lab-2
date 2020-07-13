@@ -1,0 +1,26 @@
+.newPost {
+    border: 5px solid purple;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    color: darkorchid;
+    border-radius: 7px;
+    margin-bottom: 2.0em;
+    background: white;
+    font-size: 27px;
+    padding: .5em;
+    width:35.0em;
+    font-weight: bold;
+}
+
+.main-container {
+    border: 5px solid purple;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    border-radius: 7px;
+    background: white;
+    margin-bottom: 1.0em;
+}
+h1 {
+    text-align: center;
+    color:blue;
+    font-family: cursive;
+    font-weight: bold;
+}
